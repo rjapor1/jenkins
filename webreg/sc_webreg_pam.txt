@@ -2,10 +2,10 @@ scj5dsiahz - used
 scu9e65xpc - used
 scz3asbl9x3y - mail_print_sample_shipping_label_sdc1200_xm_pfr_envelope:
 scgybo7stgr2j - mail_print_sample_shipping_label_sdc1200_xm_package:
-scvevzujsu41
-sczq2hjpt80rm
-scf72le7efc
-scpmnx1a727e87
+scvevzujsu41 - mail_print_stamps_p_series_specify:
+sczq2hjpt80rm - mail_print_envelope_12:
+scf72le7efc - mail_print_roll_4_1_8_x_6_1_4_pm_fr_envelope:
+scpmnx1a727e87 - mail_print_roll_4x6_xm_lfr_envelope:
 scm77xl9cy
 scfgx88ppjs
 scfyx7532ctgn
