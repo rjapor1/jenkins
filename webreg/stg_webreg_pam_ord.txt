@@ -5,15 +5,15 @@ stgzom0awk67 - mail_print_sample_shipping_label_5x8_pm_large_package
 stgp6389urwj4 - bvt_shipstation_import_csv
 stgyvngqz27b66 - bvt_new_order
 stgtx2t22766vg - rob manual test...
-stgom0dqgzppy
-stggm2z3od6o5t
-stgo162k9hy
-stgvoc0kcnt6rw
-stgnhscvwnf
-stgqklz1vjekq6
-stgih31vmh
-stge7x4xybj
-stghwb2ojyi
+stgom0dqgzppy - January 2017 rates for rating testing for NSA user
+stggm2z3od6o5t - January 2017 rates for rating testing for NSA user
+stgo162k9hy - January 2017 rates for rating testing for NSA user
+stgvoc0kcnt6rw - January 2017 rates for rating testing for NSA user
+stgnhscvwnf - January 2017 rates for rating testing for NSA user
+stgqklz1vjekq6 - January 2017 rates for rating testing for NSA user
+stgih31vmh - January 2017 rates for rating testing for NSA user
+stge7x4xybj - January 2017 rates for rating testing for NSA user
+stghwb2ojyi - January 2017 rates for rating testing for NSA user
 stgs8713b6h
 stglu3dg6e4n
 stgsc35s82cmlv
