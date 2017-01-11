@@ -1,9 +1,8 @@
 ccnsw3bkw7p49g - mail_bvt_envelopes
-ccdvx25ja288
-cczbhkx0vk
-ccqx3kv9vj90
-ccyvz97b297ol
-cco7a51np
+ccdvx25ja288 - mail_authentication
+ccqx3kv9vj90 - mail_bvt_international
+ccyvz97b297ol - mail_bvt_netstamps_specify
+cco7a51np - mail_bvt_netstamps_calculate
 ccugnnbjwlmc
 ccude6dh20lohq
 ccz5e1h60
