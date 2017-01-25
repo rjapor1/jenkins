@@ -4,10 +4,10 @@ ccfurzdk6coy - mail_print_sample_shipping_label_5x8_pm_large_package
 cclv55sk045v - rob
 ccwgv8mbduywbq - eva
 ccjhpzy0dh1 - eva - COmm plus user
-ccjicx88o5tz
-ccixjqr1mt
-ccy1qzgbk3
-ccyygzhuv2
+ccjicx88o5tz -  Rates automation
+ccixjqr1mt - Rates automation
+ccy1qzgbk3 - Rates automation - Comm Plus
+ccyygzhuv2 - Rates automation - Comm plus
 ccdwth36s
 ccutobb3lrg5
 ccd9i8vg8wc60
