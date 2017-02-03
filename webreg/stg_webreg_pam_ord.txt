@@ -17,7 +17,7 @@ stghwb2ojyi - January 2017 rates for rating testing for NSA user
 stgs8713b6h - user for brian
 stglu3dg6e4n - bvt_shipping_address_management
 stgsc35s82cmlv - rate testing
-stguspu8o4655f
+stguspu8o4655f - Jenkins VMs
 stgo5krbjtc
 stgepefuut
 stgswz5afiev
