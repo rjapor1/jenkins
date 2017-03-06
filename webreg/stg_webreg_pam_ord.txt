@@ -20,7 +20,7 @@ stgsc35s82cmlv - rate testing
 stguspu8o4655f - Jenkins VMs
 stgo5krbjtc - bvt_shipstation_updates_international
 stgepefuut - bvt_import_orders
-stgswz5afiev
+stgswz5afiev- bvt_shipstation_updates_domestic
 stgsqtuz7x2
 stgld1uw4sroe7
 stghy955swcbcm
