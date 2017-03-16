@@ -76,7 +76,7 @@ ccolb8oc2bzoai mail_bvt_international
 ccrfwa5m6 mail_bvt_netstamps_specify
 cch3puafas7qr mail_bvt_netstamps_calculate
 cccvajgfzkx5b - jenkinsvm03
-ccp4fea0bt - jenkins-stg2
+ccp4fea0bt 
 ccfb311osps4x
 cce438mmts
 cchz8yw0er
