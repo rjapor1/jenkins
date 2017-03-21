@@ -22,7 +22,7 @@ stgo5krbjtc - bvt_shipstation_updates_international
 stgepefuut - bvt_import_orders
 stgswz5afiev- bvt_shipstation_updates_domestic
 stgsqtuz7x2 - jenkins-stg2
-stgld1uw4sroe7
+stgld1uw4sroe7 - jenkinsvm02
 stghy955swcbcm
 stghi5sqaoe
 stgvw4zzd8jgj7
