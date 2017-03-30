@@ -24,8 +24,8 @@ stgswz5afiev- bvt_shipstation_updates_domestic
 stgsqtuz7x2 - jenkins-stg2
 stgld1uw4sroe7 - jenkinsvm02
 stghy955swcbcm - jenkinsvm10
-stghi5sqaoe - jenkinsvm11 
-stgvw4zzd8jgj7
+stghi5sqaoe - jenkinsvm12
+stgvw4zzd8jgj7  - jenkinsvm12
 stgbt9h9oleseq
 stgy8vviww576v
 stgo0j3xg9kp2o
