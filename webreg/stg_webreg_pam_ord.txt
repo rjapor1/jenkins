@@ -26,10 +26,10 @@ stgld1uw4sroe7 - jenkinsvm02
 stghy955swcbcm - jenkinsvm10
 stghi5sqaoe - jenkinsvm12
 stgvw4zzd8jgj7  - jenkinsvm11
-stgbt9h9oleseq
-stgy8vviww576v
+stgbt9h9oleseq - used
+stgy8vviww576v - used
 stgo0j3xg9kp2o - import_updated_orders
-stgrym5ihjq8ct
+stgrym5ihjq8ct - jenkinsvm16
 stgtvq2xfm85et
 stgmxelasxpm
 stgp91jwqgvj
